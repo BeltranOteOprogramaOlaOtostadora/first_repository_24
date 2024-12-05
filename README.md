@@ -6,3 +6,4 @@ this is the repo for activity 1
 
 - added the Readme repo
 -  added the gitignore file to the repository.
+- Created a new branch named dev.
