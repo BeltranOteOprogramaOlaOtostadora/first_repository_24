@@ -9,3 +9,5 @@ this is the repo for activity 1
 - Created a new branch named dev.
 - Created a new file in src folder.
 - Added a contributor file.
+- Second try:
+- Created a new branch named dev_2.
